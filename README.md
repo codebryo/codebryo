@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-My name is Roman (he/him) and I live in beautiful Austria.
-I am an Engineering Manager working [@codesandbox](https://codesandbox.io) where I have the pleasure of working with an amazing team!
+My name is Roman (he/him) and I live in beautiful Austria, close to the city of St. Pölten!
 
-Some professional highlights and skills:
-- had the opportunity to talk at various conferences
-- Teaching on and off at University (and have since I studied there)
-- I do workshops around Vue and testing
-- Consulting
+I'm Senior Engineering Manager [@ codesandbox](https://codesandbox.io)
 
 📫 How to best reach me:
   - Twitter [@codebryo](https://twitter.com/codebryo)
+  - LinkedIn [romankuba](https://www.linkedin.com/in/romankuba/)
+
+### What I do professionally:
+Some skills and highlights:
+- Talked at various conferences (Some talk on [YouTube](https://www.youtube.com/playlist?list=PLOXnJRTEIJTh8pBRsgiLuMYxTqe-ZFlQZ))
+- Teaching on and off at University (and have since I studied there)
+- I do workshops around Vue, Testing & working remotely
+- Tech Reviewed some books
+- Consulting
+
 
 ### Hobbies
 
@@ -35,29 +40,4 @@ Previous Companies I worked for:
 - [CloudBees](https://cloudbees.com)
 - [CodeShip](https://codeship.com)
 
-
-### How I work
-
-As Manager I follow 3 general principals:
-
-**Trust & Autonomy**
-
-Trust has to go in both directions. I trust you and you trust me. And this is something I build the whole work relationship on. It's the only thing allowing to really make progress on everyhing we work on.
-
-I am not a micro manager. When I trust you, I'll also trust you'll do the right things. I am here to support and help!
-
-**Transparency**
-
-I'll always be transparent and do expect the same from you. 
-
-**Support**
-
-I care for being approachable at all times. My goal is to support you so you can do your best work at all times. I'll support you on progressing your carrer, reaching your next goals and keeping a good work/life balance. We're in this for the long run! 🐫
-
-### Small Gifts that make me happy
-
-- LPs with great music
-- A glass of Gin & Tonic
-- Sudokus
-- Cardgames
 
