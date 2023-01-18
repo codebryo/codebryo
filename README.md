@@ -23,7 +23,7 @@ I honestly feel I have a lot of different hobbies, but currently just not the ti
 
 - 🖲 Video Games
 - 🎯 Board Games
-- 📚 Reading Books (Various genres, and also profesional books)
+- 📚 Reading Books (Various genres, and also professional books)
 - 🚶‍♂️ Hiking
 - 🪵 Woodworking
 - 🖥️ Programming
