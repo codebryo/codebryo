@@ -14,7 +14,7 @@ I am always happy to consult companies, speak at events and if time allows, dabb
 
 ## What I do professionally:
 
-I'm currently working as VP Engineering, and in my case that means supporting an entire Engineering Organization on topics of personal growth, best practices, scalability and stability.
+I'm currently working as Head of Product at a social media management tool. In the past I held roles like VP Engineering, where I supported Engineering Teams of 40+ People. One of my main goals has always been in connecting engineering and product. Only when you understand why you build something, you'll have great answers on how to build it. 
 
 ### Other Achievements
 - Talked at various conferences (Some talks on [YouTube](https://www.youtube.com/playlist?list=PLOXnJRTEIJTh8pBRsgiLuMYxTqe-ZFlQZ))
@@ -43,9 +43,10 @@ At least I am always happy to talk about these things, and many more!
 
 ### Work History
 
-Currently: VP Engineering [@tset](https://tset.com)
+Currently: Head of Product [@swatio](https://swat.io)
 
 Previous Companies I worked for:
+- [@tset](https://tset.com)
 - [CodeSandbox](https://codesandbox.com)
 - [Gitlab](https://gitlab.com)
 - [CloudBees](https://cloudbees.com)
